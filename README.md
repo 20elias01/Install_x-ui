@@ -28,7 +28,7 @@
 
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/20elias01/EliasVPN/main/Install_x-ui.sh)
+bash <(curl -sL https://raw.githubusercontent.com/20elias01/Install_x-ui/main/Install_x-ui.sh)
 ```
 
 ---
