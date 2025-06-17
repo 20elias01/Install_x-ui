@@ -105,11 +105,6 @@ install_xui() {
     systemctl restart x-ui
     
     echo -e "${GREEN}\n✓ x-ui has been installed successfully!${NC}"
-    echo -e "${CYAN}╔════════════════════════════════════════╗"
-    echo -e "║   ${MAGENTA}Panel URL: ${BLUE}http://your-server-ip:54321   ${CYAN}║"
-    echo -e "║   ${MAGENTA}Username: ${BLUE}admin                          ${CYAN}║"
-    echo -e "║   ${MAGENTA}Password: ${BLUE}admin                          ${CYAN}║"
-    echo -e "╚════════════════════════════════════════╝${NC}"
     echo -e "${YELLOW}\nTo access the menu later, run: ${GREEN}x-ui${NC}"
     echo -e "${YELLOW}==============================================${NC}"
 }
